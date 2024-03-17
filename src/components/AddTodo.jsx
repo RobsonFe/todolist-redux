@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useDispatch } from "react-redux";
 import { addTodo } from "../slices/todoSlice";
 import { useState } from "react";

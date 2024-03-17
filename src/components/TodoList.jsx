@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useSelector, useDispatch } from "react-redux";
 import { toggleTodo, removeTodo, filterTodos } from "../slices/todoSlice";
 
