@@ -9,7 +9,7 @@ Este projeto é uma aplicação simples de lista de tarefas construída usando R
 - Redux para gerenciamento de estado
 
 ## Demo
-Confira a demonstração ao vivo [aqui](link_do_seu_projeto).
+Confira a demonstração ao vivo [aqui](https://todolistaredux.netlify.app/).
 
 ## Utilização
 Simplesmente adicione suas tarefas no campo de entrada, pressione Enter para adicioná-las à lista, clique em uma tarefa para marcá-la como concluída e clique no ícone de lixeira para remover uma tarefa.
